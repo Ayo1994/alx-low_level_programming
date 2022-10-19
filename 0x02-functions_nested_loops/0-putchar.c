@@ -2,7 +2,7 @@
 
 /**
  * main - print _putchar
- * is written by Aayo
+ * is written by Ayo
  * Return: 0
  */
 
